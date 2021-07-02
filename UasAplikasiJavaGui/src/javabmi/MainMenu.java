@@ -7,7 +7,7 @@ package javabmi;
 
 /**
  *
- * @author guna
+ * @author user
  */
 public class MainMenu extends javax.swing.JFrame {
 
