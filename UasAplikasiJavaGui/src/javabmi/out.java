@@ -7,7 +7,7 @@ package javabmi;
 
 /**
  *
- * @author guna
+ * @author user
  */
 public class out extends javax.swing.JFrame {
 
