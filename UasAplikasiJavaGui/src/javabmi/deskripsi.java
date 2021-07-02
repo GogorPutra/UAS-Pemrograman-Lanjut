@@ -7,7 +7,7 @@ package javabmi;
 
 /**
  *
- * @author guna
+ * @author user
  */
 public class deskripsi extends javax.swing.JFrame {
 
