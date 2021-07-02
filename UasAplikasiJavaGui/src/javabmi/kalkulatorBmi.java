@@ -7,7 +7,7 @@ package javabmi;
 
 /**
  *
- * @author guna
+ * @author user
  */
 public class kalkulatorBmi extends javax.swing.JFrame {
 
